@@ -55,6 +55,9 @@ return [
 
         'heading' => 'Keine Datensätze gefunden',
 
+        'description' => 'Erstelle ein :model um loszulegen.',
+
+
     ],
 
     'filters' => [
